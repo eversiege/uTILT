@@ -11,8 +11,8 @@ N/A
 
 ## Special Thanks
 
-[osk](https://osk.sh/) — creator and main developer of TETR.IO, which this project is based on 
-[tetr.io Korean Patch](https://github.com/tetriokoreanpatch/tetrio-korean-patch) — reason why this project exists, to make it easier to make projects like this, while "borrowing" initial ideas this repository presents
-[SachaTending](https://github.com/SachaTending) — main developer and contributor to this repository
-[zudo](https://isabelle.gg/) — one of the administrators of TETR.IO and one of my main motivators behind these projects
-(update this later with testers)
+- [osk](https://osk.sh/) — creator and main developer of TETR.IO, which this project is based on 
+- [tetr.io Korean Patch](https://github.com/tetriokoreanpatch/tetrio-korean-patch) — reason why this project exists, to make it easier to make projects like this, while "borrowing" initial ideas this repository presents
+- [SachaTending](https://github.com/SachaTending) — main developer and contributor to this repository
+- [zudo](https://isabelle.gg/) — one of the administrators of TETR.IO and one of my main motivators behind these projects
+- (update this later with testers)
