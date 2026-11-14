@@ -60,9 +60,9 @@ createRewriteFilter("Font replace", "https://tetr.io/res/font/hun.fnt", {
         var req = await fetch("https://github.com/eversiege/uTILT/raw/refs/heads/dev/patch_assets/HUNdin%201451-Regular.ttf");
         var font_data = await req.arrayBuffer();
         callback({
-            type: 'image/png',
-            data: 'data:image/png;base64,' + base64ArrayBuffer(font_data),
-            encoding: 'base64-data-url'
+            type: "image/png",
+            data: "data:image/png;base64," + base64ArrayBuffer(font_data),
+            encoding: "base64-data-url"
         });
     }
 });
